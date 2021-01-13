@@ -38,6 +38,16 @@ You are required to submit the following:
 
 _Note: Don't forget to change the sharing settings on your Google Doc._
 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
 # Week14_Sequelize Homework: Reverse Engineering Code
 
 ## Table of contents
